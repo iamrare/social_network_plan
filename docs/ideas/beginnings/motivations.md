@@ -2,10 +2,10 @@
 
 [Issue discussion](https://github.com/joelparkerhenderson/social_network_plan/issues/9)
 
-Discuss motivations withinsocial networks, such as gamification, extrinsic motivation, intrinsic motivation, etc.
+Discuss motivations within social networks, such as gamification, extrinsic motivation, intrinsic motivation, etc.
 
 
-### Quotations
+## Quotations
 
 Quotations to consider:
 
@@ -14,11 +14,10 @@ Quotations to consider:
 * "The short-term, dopamine-driven feedback loops that we have created are destroying how society works: no civil discourse, no cooperation, misinformation, mistruth."
 
 
-### Wordbook
+## Wordbook
 
 Wordbook of terminology:
 
 * Extrinsic motivation is when we do behavior because we want to earn a reward or avoid punishment.
 
 * Intrinsic motivation is when we do behavior because it is personally rewarding.
-

@@ -5,7 +5,7 @@
 
 ## Abstract
 
-We believe social networks have significant benefits for people and society. However, the big social networks suffer from major problems: data breaches, fake accounts, poor accountability, rife advertising, and restricted rights; these problems harm people and society. We want to explore the viability of new social network that aims for more social good. This document is a request for comments.
+We believe social networks have significant benefits for people and society. However, the big social networks suffer from major problems: fake accounts, rife advertising, security breaches, poor accountability, unstable pricing, and restricted rights; these problems harm people and society. We want to explore the viability of new social network that aims for more social good. This document is a request for comments.
 
 
 ## About
@@ -36,12 +36,13 @@ Implementations:
 * [**Feeds**: linear, algorithmic, customizable?](docs/ideas/implementations/feeds.md)
 * [**Data**: who owns it, who uses it, who controls it?](docs/ideas/implementations/data.md)
 * [**Funding**: advertisements, donations, subscriptions?](docs/ideas/implementations/funding.md)
+* [**Schema**: data modeling, domain driven design?](docs/ideas/implementations/schema.md)
 
 Policies:
 
 * [**Conduct policies**: code of conduct, community guidelines, etc.](docs/ideas/policies/conduct_policies.md)
 * [**Privacy policies**: user rights, transparency guidelines, etc.](docs/ideas/policies/privacy_policies.md)
-* [**Disclosure policies**: security reporting, bug tracking, etc. ](docs/ideas/policies/disclosure_policies.md)
+* [**Disclosure policies**: security reporting, bug tracking, etc.](docs/ideas/policies/disclosure_policies.md)
 
 Possibilities:
 
